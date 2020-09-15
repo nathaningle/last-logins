@@ -1,0 +1,4 @@
+.*.swp
+/dist/
+/dist-newstyle/
+/.stack-work/
